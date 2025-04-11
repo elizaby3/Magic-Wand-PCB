@@ -13,4 +13,4 @@ Additionally, I added equations, data sheets, and notes to explain the 555 timer
 In this PCB, I used a two layer board with a ground fill on both sides.
 
 ### 3D PCB Layout:
-~[](https://github.com/elizaby3/Magic-Wand-PCB/blob/main/Photos/pcb_3d.png?raw=true)
+![](https://github.com/elizaby3/Magic-Wand-PCB/blob/main/Photos/pcb_3d.png?raw=true)
