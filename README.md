@@ -14,3 +14,5 @@ In this PCB, I used a two layer board with a ground fill on both sides.
 
 ### 3D PCB Layout:
 ![](https://github.com/elizaby3/Magic-Wand-PCB/blob/main/Photos/pcb_3d.png?raw=true)
+
+[Link to Main Projects Page](https://elizaby3.github.io)
